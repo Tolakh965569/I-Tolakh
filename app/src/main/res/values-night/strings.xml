@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="login">Login</string>
+    <string name="username">Username</string>
+    <string name="enter_your_username">Enter your username</string>
+    <string name="password">Password</string>
+    <string name="button_login">Login</string>
+    <string name="hotel_name">Hotel Name</string>
+    <string name="location_phnom_penh_cambodia">Location : Phnom Penh, Cambodia.</string>
+    <string name="description_this_is_the_hotel_in_cambodia_we_hava_many_types_foods_drinks_and_also_gyms">Description : This is the hotel in Cambodia. We hava many types foods drinks and also gyms.</string>
+    <string name="_120k">120K</string>
+    <string name="_20k">20K</string>
+</resources>
